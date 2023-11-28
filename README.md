@@ -1,7 +1,7 @@
 # Flutter online course app UI
 Flutter powered, interactive online course app for UI/UX designers
 
-# Add this repository to your local machine
+# Add this repo to your local machine
 ```bash
 git clone https://github.com/Fadilix/flutter-online-course-app.git
 cd flutter-online-course-app
