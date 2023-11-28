@@ -1,16 +1,17 @@
-# another
+# Flutter online course UI
+Flutter powered, interactive online course app for UI/UX designers
 
-A new Flutter project.
+# Add this repository to your local machine
+```bash
+git clone https://github.com/Fadilix/flutter-online-course-app.git
+cd flutter-online-course-app
+flutter pub get
+```
 
-## Getting Started
+# Additionnal packages used in this project
+- google_fonts : for the font of the app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+<img src="https://github.com/Fadilix/flutter-online-course-app/assets/121851593/38b1a458-7787-4866-bae1-5c6193d9fd6b" width= "250" />
+<img src="https://github.com/Fadilix/flutter-online-course-app/assets/121851593/172a29fc-bd01-480d-a604-1f59bd257006" width= "250" />
+<img src="https://github.com/Fadilix/flutter-online-course-app/assets/121851593/0c17b21f-7df9-4157-9a81-cc5d1617502a" width= "250" />
