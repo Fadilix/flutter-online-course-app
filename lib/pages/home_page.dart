@@ -9,8 +9,6 @@ class HomePage extends StatefulWidget {
   State<HomePage> createState() => _HomePageState();
 }
 
-// Un programme qui
-
 class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
