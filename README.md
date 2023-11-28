@@ -1,4 +1,4 @@
-# Flutter online course UI
+# Flutter online course app UI
 Flutter powered, interactive online course app for UI/UX designers
 
 # Add this repository to your local machine
