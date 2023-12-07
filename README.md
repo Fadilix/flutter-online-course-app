@@ -12,6 +12,6 @@ flutter pub get
 - google_fonts : for the font of the app
 
 ## Screenshots
-<img src="https://github.com/Fadilix/flutter-online-course-app/assets/121851593/38b1a458-7787-4866-bae1-5c6193d9fd6b" width= "250" />
+<img src="https://github.com/Fadilix/flutter-online-course-app/assets/121851593/38b1a458-7787-4866-bae1-5c6193d9fd6b" width= "251" />
 <img src="https://github.com/Fadilix/flutter-online-course-app/assets/121851593/172a29fc-bd01-480d-a604-1f59bd257006" width= "250" />
 <img src="https://github.com/Fadilix/flutter-online-course-app/assets/121851593/0c17b21f-7df9-4157-9a81-cc5d1617502a" width= "250" />
